@@ -5,7 +5,7 @@ This project includes a Django backend and a React frontend for a simple login a
 ## Backend Files
 
 1. `views.py`: Contains the Django views for handling login and book listing functionality using Django REST 
-2. `models.py`: Defines the Django models for the application's data, including the `Books` model for storing book details.
+2. `models.py`: Defines the Django models for the application's data, including the `Book` model for storing book details.
 3. `urls.py`: Contains the URL patterns for routing requests to the appropriate views.
 
 ## Frontend Files
