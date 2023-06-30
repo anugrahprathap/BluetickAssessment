@@ -31,5 +31,4 @@ To run the application, follow these steps:
 Please refer to the individual files for more detailed information and implementation details.
 
 
-![Alt text]([https://github.com/anugrahprathap/BluetickAssessment/blob/master/login%20error.png?raw=true]( )
 
