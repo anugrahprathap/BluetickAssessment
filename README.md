@@ -32,3 +32,9 @@ Please refer to the individual files for more detailed information and implement
 
 
 
+## Login Page
+![Alt text](Screenshots/login.png "Login")
+
+## Home Page
+
+![Alt text](Screenshots/userhome.png "Home")
